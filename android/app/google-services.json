@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737457863380",
+    "project_id": "jisr-c3b3b",
+    "storage_bucket": "jisr-c3b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737457863380:android:72b276020d12415da11941",
+        "android_client_info": {
+          "package_name": "com.example.jisr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIO6uH1EKVnv7zAOkrAxk49QBW4_08LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
